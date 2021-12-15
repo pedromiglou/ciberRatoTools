@@ -137,3 +137,5 @@ if __name__ == '__main__':
         rob.printMap()
     
     rob.run()
+
+    
